@@ -1,4 +1,4 @@
-# Banco de dados da loja
+# Banco de dados do learning path
 
 Esse é o banco de dados do learning path
 
