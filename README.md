@@ -1,9 +1,9 @@
 # Banco de dados da loja
 
-Esse é o banco de dados da loja online
+Esse é o banco de dados do learning path
 
 ## Costruindo a imagem
 
 ```
-docker build . -t lojaspringbd
+docker build . -t bdlearnpath
 ```
